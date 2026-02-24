@@ -15,7 +15,7 @@ A simple web-based tool to track coding interview preparation progress.
 - JavaScript
 
 ## 🌍 Live Project
-https://hemalathavennela.github.io/smart-job-prep-tracker/
+https://24a31a4399.github.io/smart-job-prep-tracker/
 
 ## 🎯 Objective
 This project helps students monitor and improve their coding interview preparation efficiently.
